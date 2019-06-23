@@ -2,7 +2,7 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/uchil404/bot-igeh.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
@@ -32,10 +32,10 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/uchil405/bot-igeh.git
 	* cd bot-igeh
 	* unzip node_modules.zip
-	* npm install https://github.com/huttarichard/instagram-private-api
+	* npm install https://github.com/uchil404/instagram-private-api
 	* npm audit fix
 	* ls
 	* Then select the tool you want to use!
@@ -52,10 +52,10 @@
 	* sudo yum -y install nodejs
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/uchil404/bot-igeh.git
 	* cd bot-igeh
 	* unzip node_modules.zip
-	* npm install https://github.com/huttarichard/instagram-private-api
+	* npm install https://github.com/uchil404/instagram-private-api
 	* npm audit fix
 	* ls
 	* Then select the tool you want to use!
@@ -90,11 +90,11 @@
 	* nvm install 10.7.0
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/uchil404/bot-igeh.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* nvm use 10.7.0
-	* npm install https://github.com/huttarichard/instagram-private-api
+	* npm install https://github.com/uchil404/instagram-private-api
 	* npm audit fix
 	* ls
 	* Then select the tool you want to use!
